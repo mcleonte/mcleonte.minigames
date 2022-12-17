@@ -1,0 +1,5 @@
+[project]
+name = "mcleonte.minigames"
+version = "0.0.1"
+description = ""
+authors = [{ name = "Mihail Costin Leonte", email = "costin.leonte@gmail.com"}]
